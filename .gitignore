@@ -11,3 +11,6 @@ tmp
 *.swp
 
 db/*.db
+secretkey.rb
+imgs
+!imgs/placeholder_both.jpg
